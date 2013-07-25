@@ -1,0 +1,10 @@
+#status {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+#status2 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
